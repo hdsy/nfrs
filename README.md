@@ -7,6 +7,7 @@ natural frequency restriction strategy
 在实际代码中，如下调用即可。例如：
 
 ---
+<PRE>
 // init
 
 CNFRS objCNFRSofPlaceOrder(busid_of_PlaceOrder);
@@ -21,7 +22,7 @@ if (objCNFRSofPlaceOrder(customerID) != 0)
 
 ......
 
-
+</PRE>
 ---
 
 #系统的组成
